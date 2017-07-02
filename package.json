@@ -1,0 +1,32 @@
+{
+  "name": "meanstackapp",
+  "version": "1.0.0",
+  "description": "MEAN stack app with Angular 4, bootstrap4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiteshkaranjkar/MeanStackApp.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack",
+    "Angular4",
+    "boostrap4"
+  ],
+  "author": "Jit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiteshkaranjkar/MeanStackApp/issues"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "cors": "*",
+    "express": "*",
+    "mongoose": "*",
+    "morgan": "*"
+  },
+  "homepage": "https://github.com/jiteshkaranjkar/MeanStackApp#readme"
+}
